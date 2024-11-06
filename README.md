@@ -1,8 +1,8 @@
-## Axios Helper for Vue.js
+## Axios Instance/Helper for Vue.js
 
-This Axios helper simplifies making API calls in Vue.js by handling session timeouts, auto-logout, and error handling, keeping your user sessions secure and API calls manageable.
+This Axios Instance/helper simplifies making API calls in Vue.js by handling session timeouts, auto-logout, and error handling, keeping your user sessions secure and API calls manageable.
 
-> **Note:** This helper will automatically log out users after 20 minutes of inactivity.
+> **Note:** This Instance/helper will automatically log out users after 20 minutes of inactivity.
 
 ---
 
@@ -57,7 +57,7 @@ axiosInstance.get('/your-endpoint')
   });
 ```
 
-Source Code /Axios Helper /Axios Instance 
+Source Code /Axios Helper /Axios Instance / Axios Instance for API
 
 ```bash
 import axios from 'axios';
