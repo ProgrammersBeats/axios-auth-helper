@@ -1,4 +1,4 @@
-## Axios Instance/Helper for Vue.js
+## Axios Instance/Helper for SPA Vuejs/ReactJS
 
 This Axios Instance/helper simplifies making API calls in Vue.js by handling session timeouts, auto-logout, and error handling, keeping your user sessions secure and API calls manageable.
 
